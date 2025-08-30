@@ -1,9 +1,4 @@
-<div style="padding: 1em; background-color: #fff3cd; border: 1px solid #ffeeba; border-radius: 4px;">
-  ⚠️ <strong>Do not use in production environments.</strong>
-</div>
-
-> [!WARNING]
-> **Do not use in production.**
+> [!WARNING] **Do not use in production.**
 
 
 # Hide Autosave Alert

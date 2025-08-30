@@ -25,4 +25,4 @@ Not recommended for production usage.
 
 ## 📦 Installation
 1. Download or clone this repository.
-2. Upload the `hide-autosave-alert` folder to your WordPress site under:
+2. Upload the `hide-autosave-alert` folder to your `plugins` folder.

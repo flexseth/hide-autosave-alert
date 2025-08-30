@@ -1,3 +1,10 @@
+## Todo
+Rework plugin for simplicity and granularity
+- [ ] Use `php` to hide, in lieu of JavaScript
+- [ ] Keep JavaScript as a branch for demonstration purposes
+- [ ] Add options screen - disable sitewide, disable for block name, stub
+- [ ] Disable if there's only one custom block
+
 > [!WARNING]
 > **Do not use in production.**
 

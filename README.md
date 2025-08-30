@@ -2,6 +2,10 @@
   ⚠️ <strong>Do not use in production environments.</strong>
 </div>
 
+> [!WARNING]
+> **Do not use in production.**
+
+
 # Hide Autosave Alert
 
 A very simple WordPress plugin that automatically removes the  

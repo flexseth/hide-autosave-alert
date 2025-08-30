@@ -25,4 +25,5 @@ Not recommended for production usage.
 
 ## 📦 Installation
 1. Download or clone this repository.
-2. Upload the `hide-autosave-alert` folder to your `plugins` folder.
+2. Add `.zip` file via the Plugins installation screen in the dashboard
+3. OR unzip folder, move `hide-autosave-alert` directory to your `plugins` folder.
